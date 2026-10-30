@@ -6,12 +6,25 @@ A skill is a folder with instructions (a `SKILL.md` file) that Claude loads when
 
 ## Available skills
 
+### Business and startups
+
 | Skill | What it does | Author |
 |---|---|---|
-| [class-notes-style](class-notes-style/SKILL.md) | Formats explanations as compact class notes: small headings, bold key points, arrows, examples and a TL;DR | Resmer |
-| [i-have-adhd](i-have-adhd/SKILL.md) | Shapes answers for ADHD readers: next action first, numbered steps, no tangents. Start with `/i-have-adhd`, stop with "stop adhd mode" | [Ayoub Ghriss (ayghri)](https://github.com/ayghri/i-have-adhd), MIT License |
-| [ste](ste/SKILL.md) | Explains technical ideas in clear, precise language | [Johnathan Mo (23jmo)](https://github.com/23jmo/jmo-skills), MIT License |
-| [interview](interview/SKILL.md) | Interviews you in depth about a task, then writes a detailed spec to a file. Best suited to coding projects | [Johnathan Mo (23jmo)](https://github.com/23jmo/jmo-skills), MIT License |
+| [mom-test-questionnaire](business-and-startups/mom-test-questionnaire/SKILL.md) | Builds a validation plan and customer interview or survey questions that follow *The Mom Test*: past behaviour, not opinions or future promises | Resmer |
+
+### Writing and formatting
+
+| Skill | What it does | Author |
+|---|---|---|
+| [class-notes-style](writing-and-formatting/class-notes-style/SKILL.md) | Formats explanations as compact class notes: small headings, bold key points, arrows, examples and a TL;DR | Resmer |
+| [i-have-adhd](writing-and-formatting/i-have-adhd/SKILL.md) | Shapes answers for ADHD readers: next action first, numbered steps, no tangents. Start with `/i-have-adhd`, stop with "stop adhd mode" | [Ayoub Ghriss (ayghri)](https://github.com/ayghri/i-have-adhd), MIT License |
+| [ste](writing-and-formatting/ste/SKILL.md) | Explains technical ideas in clear, precise language | [Johnathan Mo (23jmo)](https://github.com/23jmo/jmo-skills), MIT License |
+
+### Workflows and productivity
+
+| Skill | What it does | Author |
+|---|---|---|
+| [interview](workflows-and-productivity/interview/SKILL.md) | Interviews you in depth about a task, then writes a detailed spec to a file. Best suited to coding projects | [Johnathan Mo (23jmo)](https://github.com/23jmo/jmo-skills), MIT License |
 
 ## How to install a skill in Claude
 
