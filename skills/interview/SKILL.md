@@ -4,7 +4,7 @@ description: Interview the user in depth about a task or project, then write a d
 allowed-tools: AskUserQuestion, Write, Agent
 ---
 
-> **Credit:** based on the "interview me" spec prompt shared by Thariq (Anthropic) on X: https://x.com/trq212/status/2005315275026260309. Packaged as a skill; not original work of this repository's owner.
+> **Credit:** original skill by Johnathan Mo (23jmo): https://github.com/23jmo/jmo-skills. MIT License. Republished with credit; only the file header was reformatted.
 
 Follow the user instructions and interview me in detail using the AskUserQuestionTool about literally anything: technical implementation, UI & UX, concerns, tradeoffs, etc. but make sure the questions are not obvious. be very in-depth and continue interviewing me continually until it's complete. then, write the spec to a file.
 
