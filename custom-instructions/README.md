@@ -74,6 +74,7 @@ After the interview:
   - Another tool: use that tool's current fields and character limits. If you are not sure what they are, ask me.
 * Count the characters exactly and show the count under each block. If a block is too long, shorten the wording first. Never drop a rule silently: if something must be removed, tell me what and let me choose.
 * Write work preferences so they apply in work conversations, and leave room for me to ask for a different approach on any task.
+* Before you show me the draft, check it for mistakes, typos and overlapping or repeated information. Fix anything you find, then count the characters again. Briefly tell me what you fixed.
 * Show me the draft and ask whether anything needs fixing before I copy it into my settings.
 
 Start with the first question.
