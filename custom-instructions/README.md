@@ -65,6 +65,7 @@ After the interview:
 * Keep lasting background information and useful default preferences. Briefly mark which information would fit better in a specific chat or project instead.
 * If my answers contain important conflicts, resolve them with follow-up questions, one at a time.
 * Turn my answers into clear, practical instructions. Do not write a summary of the conversation or a biography.
+* Put only facts about me in "My work background", and put every rule about how to answer (including language, formats and conventions) in "How I want you to respond". Rules in the background part may be treated as context instead of rules.
 * Write everything in first person, in the language I chose in question 1. Treat that language as my default for all answers, and include a clear line saying so.
 * Use neutral words that work in the tool I chose (for example "file" instead of tool-specific names like "canvas" or "artifact").
 * Match the format to the tool I chose in question 1:
